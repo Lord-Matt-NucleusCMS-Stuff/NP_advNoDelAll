@@ -5,6 +5,8 @@ Written to demonstrate advAdmin's editing power. Removes the "delete all" option
 
 As always there are no core hacks required to make this work. 
 
+See also: https://github.com/Lord-Matt-NucleusCMS-Stuff/advAdmin-for--LM-NucleusCMS
+
 Examples of
 ===========
 
